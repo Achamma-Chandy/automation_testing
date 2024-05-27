@@ -1,2 +1,2 @@
 # automation_testing
-Learn Auntomation Testing
+Learn Automation Testing
